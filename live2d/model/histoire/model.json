@@ -2,10 +2,10 @@
     "version":"1.0.0",
     "model":"model.moc",
     "textures":[
-        "histoire.1024/texture_00.png",
-		"histoire.1024/texture_01.png",
-		"histoire.1024/texture_02.png",
-		"histoire.1024/texture_03.png"
+        "histoire.1024/texture_00.webp",
+		"histoire.1024/texture_01.webp",
+		"histoire.1024/texture_02.webp",
+		"histoire.1024/texture_03.webp"
     ],
     "layout":{
         "center_x":0.0,
